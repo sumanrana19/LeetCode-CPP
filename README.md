@@ -52,6 +52,4 @@ The main goal of this repository is to practice and improve problem-solving skil
 
 Feel free to fork the repository and submit pull requests if you have optimized solutions or alternative methods for solving the same problems. Your contributions are always welcome!
 
-## 📝 License
 
-This repository is open-source and available under the [MIT License](LICENSE).
